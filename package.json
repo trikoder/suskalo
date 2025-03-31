@@ -1,0 +1,30 @@
+{
+  "name": "suskalo",
+  "version": "1.0.0",
+  "description": "Glavna Šuška među oglasnicima",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/trikoder/suskalo.git"
+  },
+  "keywords": [
+    "suskalo",
+    "njuskalo"
+  ],
+  "author": "Njuskalo Technology",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/trikoder/suskalo/issues"
+  },
+  "homepage": "https://github.com/trikoder/suskalo#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.12"
+  }
+}
